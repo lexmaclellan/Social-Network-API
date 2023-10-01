@@ -58,8 +58,11 @@ module.exports = {
                 { new: true }
             );
 
-            res.json(user);
-            res.json(thought);
+            if (!user) {
+                return res.status(404).json({ message: 'Thought deleted, but no user found' });
+            }
+
+            res.json({ message: 'Thought deleted' });
         } catch (err) {
             res.status(500).json(err);
         }
