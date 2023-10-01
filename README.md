@@ -7,6 +7,7 @@ An API for a social network web application where users can post their thoughts,
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#contribute)
@@ -20,6 +21,10 @@ In the terminal, type "npm install".
 ## Usage
 
 In the terminal, type "npm run start". API requests can be run in a program such as Insomnia.
+
+## Demo
+
+A video demonstration can be found here: [https://drive.google.com/file/d/1cdI7m4VmpfDSrnPDBv2brI_V_jccAq7I/view?usp=sharing](https://drive.google.com/file/d/1cdI7m4VmpfDSrnPDBv2brI_V_jccAq7I/view?usp=sharing)
 
 ## Credits
 
