@@ -41,7 +41,3 @@ N/A
 ## Tests
 
 N/A
-
-## Questions
-
-I can be reached for additional questions on Github at https://github.com/lexrayne.
